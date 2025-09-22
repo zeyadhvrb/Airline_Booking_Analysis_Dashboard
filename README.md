@@ -38,4 +38,4 @@ Open it in Excel (desktop recommended)
 
 Use slicers and filters to explore the data interactively
 
-🔗 Project Link
+🔗 Project Link: https://github.com/zeyadhvrb/Airline_Booking_Analysis_Dashboard/blob/066c07f002bf85fcea47dea53a2a4324d3fb2015/Airline%20Booking%20Data%20Analysis%20Dashboard.xlsx
